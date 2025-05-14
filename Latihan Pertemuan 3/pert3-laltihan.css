@@ -1,0 +1,26 @@
+body {
+    background-color: #f0f0f0;
+}
+
+h1 {
+    font-size: 24px;
+    color: #333;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Menambahkan bayangan pada teks */
+}
+
+table {
+    margin-top: 20px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    color: #444;
+}
